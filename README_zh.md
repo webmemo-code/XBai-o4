@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./figures/xbai.png" alt="Logo" width="130" height="130"><br>
-  [English](./README.md) &nbsp;|&nbsp; [简体中文](./README_zh.md)
+  <a href="./README.md">English</a> &nbsp;|&nbsp;
+  <a href="./README_zh.md">简体中文</a>
 </div>
 
 ## 更新
