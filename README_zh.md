@@ -29,7 +29,7 @@ pip install flash_attn==2.7.4.post1
 
 | Model|Transformers(HF) | ModelScope |
 |---------------|---------|---------|
-|XBai o4|[XBai-o4](https://huggingface.co/MetaStoneTec/XBai-o4)|[XBai o4](https://modelscope.cn/models/MetaStoneTec/XBai-o4)|
+|XBai o4|[XBai o4](https://huggingface.co/MetaStoneTec/XBai-o4)|[XBai o4](https://modelscope.cn/models/MetaStoneTec/XBai-o4)|
 
 ## 模型性能
 
