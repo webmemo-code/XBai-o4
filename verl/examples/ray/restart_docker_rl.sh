@@ -1,0 +1,2 @@
+docker run -itd --gpus all --privileged --cap-add=IPC_LOCK --ulimit memlock=-1 --ulimit stack=67108864 --shm-size="10g"  --memory-swap=-1 \
+        -v local_path:/workspace --net=host --ipc=host --name="rl" verl:ngc-th2.6.0-cu126-vllm0.8.3-flashinfer0.2.2-dev /etc/init.d/ssh start -D
